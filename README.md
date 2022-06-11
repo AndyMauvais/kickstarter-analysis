@@ -15,12 +15,12 @@ We will use these insights to help Louise plan her own and set it up for success
 ## Analysis
 
 #### Outcomes based on Launch Date
-![Theater Outcomes Based on Launch Date](/Resources/Theater_Outcomes_vs_Launch.png)  
+![Theater Outcomes Based on Launch Date](Resources/Theater_Outcomes_vs_Launch.png)  
 - Based on the chart data, the best months to start a theater campaign are between May to July.
 - The worst time for the campain is between September to to December. The number of successful campaigns steadily decreases each month in the Spring all the way to Winter time.  
 
 #### Outcomes based on Goals
-![Outcomes vs Goals](/Resources/Outcomes_vs_Goals.png)
+![Outcomes vs Goals](Resources/Outcomes_vs_Goals.png)
 - Campaigns with cheaper goals are more likely to be successful (Less than $15,000)
 
 - What are some limitations of this dataset?
