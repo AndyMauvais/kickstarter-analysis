@@ -20,7 +20,7 @@ We will use these insights to help Louise plan her own and set it up for success
 - The worst time for the campain is between September to to December. The number of successful campaigns steadily decreases each month in the Spring all the way to Winter time.  
 
 #### Outcomes based on Goals  
-![Outcomes vs Goals](Resources/Outcomes_vs_Goals.png)
+![Outcomes vs Goals](Resources/Outcomes_vs_Goals.PNG)  
 - Campaigns with cheaper goals are more likely to be successful (Less than $15,000)
 
 - What are some limitations of this dataset?
