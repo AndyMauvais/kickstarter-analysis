@@ -22,11 +22,13 @@ We will use these insights to help Louise plan her own and set it up for success
 #### Outcomes based on Goals  
 ![Outcomes vs Goals](Resources/Outcomes_vs_Goals.PNG)  
 - Campaigns with cheaper goals are more likely to be successful (Less than $15,000)
-
+  
+#### Limitations  
 - What are some limitations of this dataset?
   - Does not take into account any marketing strategies used to gather more backers to reach the campaign goal.
   - The average donation can be skewed by backers who donate more money. We cannot see the amounts that each backer donated to any given campaign.
 
+#### Recommendations  
 - What are some other possible tables and/or graphs that we could create?
   - Number of outcomes by year.  
   - Number of outcomes by country.  
